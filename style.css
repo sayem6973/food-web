@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.color{
+    color: orange;
+}
+
+.displayflex{
+    display: flex;
+
+
+}
+
+.part1{
+    
+
+}
+.skippart{
+    margin: 5%;
+    width: 60%;
+    
+}
+.girlimage1{
+    height:700px ;
+    margin:3% 0%;
+    margin-right:3%;
+
+}
+
+.title{
+    font-size: 60px;
+    margin: 25px 10px;
+    padding: 5px;
+}
+#p1{
+    width: 90%;
+}
+.btn{
+    text-decoration: none;
+}
